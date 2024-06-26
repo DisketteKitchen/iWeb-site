@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:44F38690-D4DD-4F61-9A37-14598772A2FE</id>
+ <title>Page list Atom feed</title>
+ <updated>2024-06-26T01:08:20-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:FBD016BB-10E7-4EDF-BD64-3D194F357DDC</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">FBD016BB-10E7-4EDF-BD64-3D194F357DDC</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2024-06-26T01:08:20.001-06:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:52B53906-DBFC-4973-885D-4A055FD1689F</id>
+  <title>Computer Collection</title>
+  <title xmlns="urn:iweb:">Computer Collection</title>
+  <in-navbar xmlns="urn:iweb:">52B53906-DBFC-4973-885D-4A055FD1689F</in-navbar>
+  <link rel="alternate" href="Computer_Collection.html"/>
+  <updated>2024-06-26T01:08:20.002-06:00</updated>
+  <content>Computer Collection</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1B556C08-9C11-457A-AE2B-68BA41D97F35</id>
+  <title>Links</title>
+  <title xmlns="urn:iweb:">Links</title>
+  <in-navbar xmlns="urn:iweb:">1B556C08-9C11-457A-AE2B-68BA41D97F35</in-navbar>
+  <link rel="alternate" href="Links.html"/>
+  <updated>2024-06-26T01:08:20.003-06:00</updated>
+  <content>Links</content>
+ </entry>
+</feed>
